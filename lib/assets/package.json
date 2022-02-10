@@ -58,7 +58,7 @@
     "karma-jquery": "^0.2.2",
     "karma-json-fixtures-preprocessor": "0.0.6",
     "karma-webpack": "^2.0.13",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.7",
     "style-loader": "^0.18.2",
     "webpack": "^3.11.0"
